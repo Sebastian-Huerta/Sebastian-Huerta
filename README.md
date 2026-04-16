@@ -26,7 +26,7 @@ Desarrollo aplicaciones web enfocadas en resolver problemas reales.
 Estoy disponible para proyectos freelance, trabajo remoto y posiciones full-time.
 
 **¿Tienes una idea, un producto o necesitas escalar tu equipo?**  
-→ Escríbeme a [seba.hs.dev@gmail.com](mailto:seba.hs.dev@gmail.com) o conéctate en [LinkedIn](https://linkedin.com/in/sebastian-h-soto)
+→ Escríbeme a [seba.hs.dev@gmail.com](mailto:seba.hs.dev@gmail.com) o conéctate en [LinkedIn](https://www.linkedin.com/in/sebastian-huerta-soto/)
 
 ---
 
