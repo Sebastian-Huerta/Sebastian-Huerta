@@ -1,0 +1,31 @@
+
+Hola, soy Sebastián 👋 Desarrollador Full Stack desde · Chile 🇨🇱. Desarrollo aplicaciones web y productos digitales. 
+
+<!-- ## En qué estoy trabajando
+🏛️ **[Adjudica Licitaciones SpA](https://adjudicalicitaciones.cl)** — Plataforma de consultoría en licitaciones. Fundador & dev. -->
+
+
+## Sobre mí
+- 🎓 Ingeniería en Informática — Universidad Santo Tomás, Chile
+- 🛠️ Me gusta construir cosas de principio a fin, desde la idea hasta producción
+
+## Stack
+
+
+`React` `Next.js` `React Native` `TypeScript` `Node.js` `Tailwind CSS` `Figma`
+
+`Django` `Python` `Docker` `GCP` `Vercel` `Mercado Pago` `NestJs` `Supabase` `PostgreSQL`
+
+---
+
+## ¿Trabajamos juntos?
+
+Estoy disponible para proyectos freelance, trabajo remoto y posiciones full-time.
+
+**¿Tienes una idea, un producto o necesitas escalar tu equipo?**  
+→ Escríbeme a [seba.hs.dev@gmail.com](mailto:seba.hs.dev@gmail.com) o conéctate en [LinkedIn](https://linkedin.com/in/sebastian-h-soto)
+
+---
+
+## Links
+[Portafolio](https://seba-dev.vercel.app) · [LinkedIn](https://linkedin.com/in/sebastian-h-soto) · [Email](mailto:seba.hs.dev@gmail.com)
