@@ -1,6 +1,8 @@
 <img width="5000" height="1250" alt="banner" src="https://github.com/user-attachments/assets/811beda0-a793-44d8-b9a1-4a158c5a7cd3" />
 
-Hola, soy Sebastián 👋 Desarrollador Full Stack desde · Chile 🇨🇱. Desarrollo aplicaciones web y productos digitales. 
+Hola, soy Sebastián 👋 Desarrollador Full Stack · Chile 🇨🇱
+
+Desarrollo aplicaciones web enfocadas en resolver problemas reales.
 
 <!-- ## En qué estoy trabajando
 🏛️ **[Adjudica Licitaciones SpA](https://adjudicalicitaciones.cl)** — Plataforma de consultoría en licitaciones. Fundador & dev. -->
