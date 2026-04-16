@@ -31,4 +31,4 @@ Estoy disponible para proyectos freelance, trabajo remoto y posiciones full-time
 ---
 
 ## Links
-[Portafolio](https://seba-dev.vercel.app) · [LinkedIn](https://linkedin.com/in/sebastian-h-soto) · [Email](mailto:seba.hs.dev@gmail.com)
+[Portafolio](https://seba-dev.vercel.app) · [LinkedIn](https://www.linkedin.com/in/sebastian-huerta-soto/) · [Email](mailto:seba.hs.dev@gmail.com)
