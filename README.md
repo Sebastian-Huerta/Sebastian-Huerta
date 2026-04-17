@@ -1,4 +1,6 @@
-<img width="4000" height="160" alt="banner" src="https://github.com/user-attachments/assets/811beda0-a793-44d8-b9a1-4a158c5a7cd3" />
+<img src="https://github.com/user-attachments/assets/811beda0-a793-44d8-b9a1-4a158c5a7cd3" 
+     alt="banner" 
+     style="width:100%; height:auto;" />
 
 Hola, soy Sebastián 👋 Desarrollador Full Stack · Chile 🇨🇱
 
